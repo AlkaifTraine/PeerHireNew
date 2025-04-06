@@ -1,0 +1,1001 @@
+name,skills,experience,rating,cost_per_project
+Freelancer 1,"ml, html, sql, ai, css",3.1,4.29,1751
+Freelancer 2,"django, nodejs, ai",6.9,4.58,861
+Freelancer 3,"nodejs, data analysis, html, python",6.0,3.99,825
+Freelancer 4,"ml, javascript, ai, docker, nodejs, css",6.8,4.6,499
+Freelancer 5,"html, django, python, javascript, css, react",6.3,4.56,948
+Freelancer 6,"html, css, aws",7.5,4.53,1823
+Freelancer 7,"ai, aws, javascript, react, docker",3.2,4.89,1471
+Freelancer 8,"react, django, docker",5.6,4.76,1042
+Freelancer 9,"javascript, data analysis, nodejs, html, react",1.2,3.75,994
+Freelancer 10,"ml, data analysis, ai",3.4,4.12,1992
+Freelancer 11,"react, css, html, javascript, nodejs",8.0,3.9,997
+Freelancer 12,"react, ai, html, ml, flask",4.4,4.18,1058
+Freelancer 13,"aws, sql, css",8.5,4.17,1579
+Freelancer 14,"django, css, ml, sql",8.7,3.76,613
+Freelancer 15,"data analysis, flask, django",9.0,3.82,1763
+Freelancer 16,"nodejs, sql, html",4.0,4.22,902
+Freelancer 17,"aws, nodejs, css, ml, python, html",5.7,4.03,1166
+Freelancer 18,"nodejs, docker, flask, aws, html",6.4,3.85,593
+Freelancer 19,"javascript, sql, flask",9.5,4.42,735
+Freelancer 20,"sql, data analysis, nodejs, css, aws",6.3,4.38,1619
+Freelancer 21,"sql, data analysis, docker, nodejs",2.3,4.83,1878
+Freelancer 22,"nodejs, docker, html, ml, javascript",1.2,3.75,935
+Freelancer 23,"html, python, css, data analysis, docker, react",1.3,4.35,705
+Freelancer 24,"ml, nodejs, python, django, docker, css",9.5,3.52,1864
+Freelancer 25,"css, python, sql, ai, react, data analysis",9.0,3.95,956
+Freelancer 26,"data analysis, aws, python, html, flask, javascript",9.4,3.76,1869
+Freelancer 27,"flask, javascript, django, html, docker",2.9,4.44,1921
+Freelancer 28,"docker, css, python, html",4.2,3.68,830
+Freelancer 29,"sql, flask, react, data analysis, ai",2.4,4.48,486
+Freelancer 30,"python, ai, sql, data analysis, javascript",4.0,4.23,1746
+Freelancer 31,"sql, aws, react, nodejs, ml",6.2,4.18,1929
+Freelancer 32,"docker, javascript, flask, html, aws",3.1,4.3,1748
+Freelancer 33,"html, nodejs, django, ml, react",3.7,4.84,1587
+Freelancer 34,"ml, nodejs, javascript, flask, data analysis, python",2.4,4.96,1819
+Freelancer 35,"sql, python, react",7.8,4.0,1699
+Freelancer 36,"python, nodejs, data analysis",8.1,3.69,963
+Freelancer 37,"nodejs, docker, data analysis",2.3,4.48,1303
+Freelancer 38,"css, sql, html",2.6,4.01,1379
+Freelancer 39,"html, ai, react",4.3,4.57,1235
+Freelancer 40,"css, javascript, data analysis",5.7,4.21,1794
+Freelancer 41,"aws, docker, flask, react, django",9.5,4.99,943
+Freelancer 42,"sql, html, react, nodejs",6.8,3.91,430
+Freelancer 43,"ml, aws, django, docker",2.6,4.69,503
+Freelancer 44,"html, docker, javascript, sql",8.9,4.4,1913
+Freelancer 45,"sql, docker, data analysis, nodejs",3.3,3.95,228
+Freelancer 46,"html, ai, nodejs, data analysis",8.6,4.62,923
+Freelancer 47,"django, data analysis, css, python, aws",4.8,4.32,1741
+Freelancer 48,"react, ai, sql, flask, css, html",6.1,4.31,614
+Freelancer 49,"html, nodejs, css, django",5.6,4.58,1650
+Freelancer 50,"django, flask, javascript, nodejs, sql",5.0,3.89,1250
+Freelancer 51,"html, django, aws, sql, python, docker",3.9,4.94,461
+Freelancer 52,"aws, html, django, flask",1.9,4.11,779
+Freelancer 53,"ml, html, aws, sql, ai",8.6,3.57,1122
+Freelancer 54,"docker, python, flask, ai, html, ml",5.6,4.97,971
+Freelancer 55,"python, html, ai, react, sql",5.8,4.04,908
+Freelancer 56,"ml, css, react, python",7.8,4.05,1114
+Freelancer 57,"docker, ai, react, flask",2.7,4.85,387
+Freelancer 58,"flask, sql, ai, aws",9.2,4.36,1461
+Freelancer 59,"data analysis, aws, python, nodejs",3.9,3.77,1524
+Freelancer 60,"sql, python, ai, nodejs, aws, flask",2.1,4.75,204
+Freelancer 61,"ml, react, flask",5.5,4.57,679
+Freelancer 62,"docker, ai, aws, flask",9.9,4.41,1614
+Freelancer 63,"css, html, ai, flask",7.8,3.97,1863
+Freelancer 64,"docker, data analysis, css, html, sql, javascript",6.5,4.65,911
+Freelancer 65,"ai, react, sql, html",7.6,4.05,906
+Freelancer 66,"docker, ai, python, nodejs, ml",7.7,4.35,1947
+Freelancer 67,"django, docker, ai, css",3.4,4.1,661
+Freelancer 68,"ai, data analysis, nodejs",4.7,3.82,1435
+Freelancer 69,"nodejs, react, data analysis",8.5,4.99,1105
+Freelancer 70,"nodejs, docker, ml, data analysis, django",9.7,4.51,600
+Freelancer 71,"flask, ml, javascript",8.9,4.38,1397
+Freelancer 72,"django, aws, html, javascript, ai, sql",3.2,3.51,225
+Freelancer 73,"css, python, ml",9.8,4.7,359
+Freelancer 74,"ml, javascript, react, css, docker",8.7,4.42,1525
+Freelancer 75,"sql, react, ai",3.0,4.68,601
+Freelancer 76,"sql, html, data analysis, nodejs, react",8.6,4.15,1198
+Freelancer 77,"docker, javascript, data analysis, ai",3.1,4.46,1853
+Freelancer 78,"ml, django, docker, html, aws, python",3.6,4.68,1522
+Freelancer 79,"docker, python, data analysis, ml",3.4,3.51,530
+Freelancer 80,"flask, ml, sql",5.2,4.73,1691
+Freelancer 81,"sql, react, python",5.1,4.86,421
+Freelancer 82,"nodejs, aws, python",4.2,4.65,812
+Freelancer 83,"sql, ml, data analysis, python, aws, javascript",8.5,4.53,1915
+Freelancer 84,"css, nodejs, sql, ai, html, data analysis",9.8,3.81,1810
+Freelancer 85,"flask, ai, docker",8.6,3.59,1415
+Freelancer 86,"css, sql, ai, python, ml, docker",7.4,4.55,1683
+Freelancer 87,"ml, css, docker, react, javascript, flask",2.4,4.89,1066
+Freelancer 88,"python, aws, react",7.9,4.45,1808
+Freelancer 89,"ai, html, python, flask, react",3.7,3.58,912
+Freelancer 90,"flask, react, html, nodejs",4.2,3.7,752
+Freelancer 91,"html, python, flask, css",1.1,3.87,364
+Freelancer 92,"data analysis, django, python, react, flask",5.8,4.95,561
+Freelancer 93,"sql, react, html, ml",1.7,3.77,1672
+Freelancer 94,"data analysis, python, docker, aws, ml, django",6.4,4.54,1036
+Freelancer 95,"javascript, react, css, aws",1.9,4.93,846
+Freelancer 96,"aws, css, ml, python, docker",1.3,4.0,365
+Freelancer 97,"data analysis, css, html, nodejs, ml, ai",1.5,4.64,703
+Freelancer 98,"ml, javascript, react, sql, ai, python",7.1,4.95,1891
+Freelancer 99,"data analysis, ml, nodejs, css, aws, python",9.1,4.25,1394
+Freelancer 100,"docker, sql, data analysis",8.3,3.78,615
+Freelancer 101,"python, sql, django, aws, flask, css",7.8,4.11,823
+Freelancer 102,"ml, aws, sql",3.1,4.44,1501
+Freelancer 103,"ml, django, html, sql, flask, css",4.9,4.33,1980
+Freelancer 104,"aws, nodejs, ai, python, javascript, react",7.3,4.06,663
+Freelancer 105,"flask, css, django, html, ai",8.8,4.64,1478
+Freelancer 106,"sql, react, ai, javascript",4.8,3.7,1103
+Freelancer 107,"flask, react, django",4.4,4.13,1595
+Freelancer 108,"ai, react, django, javascript",3.3,3.97,599
+Freelancer 109,"ml, flask, aws, javascript",7.8,4.93,1656
+Freelancer 110,"ml, data analysis, html",4.0,4.53,488
+Freelancer 111,"ml, django, python",2.3,4.08,824
+Freelancer 112,"python, flask, ai, css",5.4,4.69,1154
+Freelancer 113,"ml, css, javascript, ai",9.8,4.92,1681
+Freelancer 114,"sql, html, docker, python, javascript, nodejs",8.4,4.41,1261
+Freelancer 115,"python, flask, ml, docker, react",3.2,4.15,1002
+Freelancer 116,"python, sql, nodejs, javascript",6.9,4.37,1527
+Freelancer 117,"css, javascript, react, ai, python, nodejs",9.9,4.15,422
+Freelancer 118,"ai, flask, nodejs",4.7,3.74,924
+Freelancer 119,"ml, flask, react, ai",3.8,4.89,1656
+Freelancer 120,"nodejs, python, ml, data analysis, html, ai",8.8,4.5,422
+Freelancer 121,"data analysis, aws, nodejs, html",1.8,3.78,1659
+Freelancer 122,"python, docker, flask, ai",1.0,3.88,375
+Freelancer 123,"css, ml, html, javascript",1.8,3.79,1377
+Freelancer 124,"flask, data analysis, html, javascript, aws",2.1,4.92,1062
+Freelancer 125,"django, react, flask, javascript",6.0,3.72,1506
+Freelancer 126,"docker, aws, react",3.9,4.48,1756
+Freelancer 127,"css, ai, django, sql",10.0,4.37,1248
+Freelancer 128,"sql, python, docker, django",8.8,4.39,1296
+Freelancer 129,"react, nodejs, flask, docker",1.3,3.9,1781
+Freelancer 130,"ml, sql, data analysis",7.3,4.36,1929
+Freelancer 131,"ml, ai, aws, flask, css",7.0,4.1,1730
+Freelancer 132,"data analysis, docker, html",4.8,4.19,1110
+Freelancer 133,"html, data analysis, python, django",8.0,4.43,407
+Freelancer 134,"python, data analysis, html, flask, css, javascript",3.8,4.44,1684
+Freelancer 135,"css, ml, django, flask, html",2.7,4.24,1308
+Freelancer 136,"react, docker, ai, javascript, django, sql",1.1,4.76,1900
+Freelancer 137,"docker, css, data analysis, aws, ai",3.0,3.9,1503
+Freelancer 138,"sql, react, docker, django",3.2,4.35,1359
+Freelancer 139,"flask, aws, sql",6.2,3.58,809
+Freelancer 140,"ai, docker, sql",1.8,4.89,1576
+Freelancer 141,"javascript, ai, ml, css",1.3,4.96,651
+Freelancer 142,"python, html, ai, ml",5.2,4.08,956
+Freelancer 143,"data analysis, django, sql, react",6.3,4.89,276
+Freelancer 144,"sql, nodejs, javascript, css",3.0,4.57,973
+Freelancer 145,"flask, css, html, sql",2.1,3.89,675
+Freelancer 146,"aws, ai, ml, python, css, docker",9.3,4.88,1276
+Freelancer 147,"ml, sql, ai, flask, javascript",7.5,3.75,1983
+Freelancer 148,"docker, flask, ai, html, sql, ml",5.6,4.81,823
+Freelancer 149,"python, ai, data analysis",3.5,4.52,997
+Freelancer 150,"flask, nodejs, python, react, docker",7.9,3.91,1643
+Freelancer 151,"ai, javascript, aws",7.5,4.03,1284
+Freelancer 152,"nodejs, html, aws, docker, sql, css",7.6,4.93,601
+Freelancer 153,"css, aws, html, data analysis",8.3,4.98,1501
+Freelancer 154,"css, docker, python",2.2,4.36,882
+Freelancer 155,"react, ml, django, python, docker",6.7,4.43,1353
+Freelancer 156,"html, python, data analysis, aws, django",8.5,4.19,787
+Freelancer 157,"python, ai, flask, aws, django, css",9.0,4.68,1851
+Freelancer 158,"sql, docker, nodejs, django, data analysis",3.6,4.79,1544
+Freelancer 159,"javascript, flask, django, ai, docker",8.9,4.18,1449
+Freelancer 160,"html, django, ml, javascript, css, react",1.9,4.29,1595
+Freelancer 161,"javascript, sql, django",7.3,4.95,932
+Freelancer 162,"django, aws, flask",8.0,4.24,1710
+Freelancer 163,"react, html, data analysis, javascript, python",4.5,3.93,824
+Freelancer 164,"ai, python, react, docker, data analysis, ml",7.6,4.53,935
+Freelancer 165,"docker, javascript, data analysis, django",4.9,4.54,1334
+Freelancer 166,"nodejs, ml, django, sql, react",7.5,4.19,1680
+Freelancer 167,"ml, python, html, ai, javascript",6.5,4.69,1433
+Freelancer 168,"nodejs, react, css, aws",6.3,3.9,1865
+Freelancer 169,"aws, react, sql, css",4.1,4.37,1267
+Freelancer 170,"django, flask, css, docker",2.6,3.54,1482
+Freelancer 171,"html, python, ai, javascript",9.6,3.63,273
+Freelancer 172,"sql, react, ml",6.3,4.69,738
+Freelancer 173,"ai, data analysis, flask, react",3.4,3.7,1569
+Freelancer 174,"ml, docker, nodejs",9.3,4.08,200
+Freelancer 175,"flask, aws, javascript, sql",7.1,4.42,974
+Freelancer 176,"flask, docker, python, nodejs, aws, ml",4.3,4.51,702
+Freelancer 177,"django, data analysis, html, aws, ml",9.8,4.02,494
+Freelancer 178,"flask, html, python, ml, ai, javascript",3.6,4.76,1178
+Freelancer 179,"data analysis, ml, aws",9.8,4.75,709
+Freelancer 180,"react, aws, ai, django, data analysis, ml",6.1,3.63,689
+Freelancer 181,"aws, html, django, nodejs",8.9,4.56,1862
+Freelancer 182,"nodejs, css, ai, docker, react",6.8,4.54,1115
+Freelancer 183,"react, javascript, python, html",2.3,4.37,1403
+Freelancer 184,"django, react, python, aws",6.9,4.09,1079
+Freelancer 185,"aws, flask, react, html, python, sql",7.5,4.28,642
+Freelancer 186,"html, python, react, ai, sql",4.6,4.01,1673
+Freelancer 187,"javascript, flask, aws",2.8,3.93,472
+Freelancer 188,"docker, ai, data analysis",8.8,4.75,1080
+Freelancer 189,"css, python, docker",3.9,4.28,1151
+Freelancer 190,"html, aws, nodejs, data analysis, css",9.7,4.55,1495
+Freelancer 191,"sql, data analysis, django",7.3,4.12,1306
+Freelancer 192,"html, docker, flask, nodejs",5.3,4.04,1496
+Freelancer 193,"docker, javascript, django",9.0,3.71,932
+Freelancer 194,"nodejs, javascript, python",6.5,4.02,1923
+Freelancer 195,"nodejs, ml, sql, python, html",8.1,4.95,1666
+Freelancer 196,"css, data analysis, nodejs, react",7.4,4.3,1628
+Freelancer 197,"docker, data analysis, css, aws, sql",4.7,4.35,994
+Freelancer 198,"nodejs, python, css, sql, react",4.3,4.34,839
+Freelancer 199,"sql, ai, css",2.8,4.03,1321
+Freelancer 200,"python, data analysis, css",9.2,4.15,1232
+Freelancer 201,"django, react, ml, sql, html",5.8,4.32,587
+Freelancer 202,"docker, css, data analysis, django, ml, javascript",2.5,4.96,967
+Freelancer 203,"django, aws, docker, javascript, sql",5.7,3.51,1052
+Freelancer 204,"javascript, nodejs, python, django",3.8,4.89,1287
+Freelancer 205,"sql, ai, javascript, ml, data analysis, css",4.9,3.92,1065
+Freelancer 206,"python, django, css",3.8,4.81,400
+Freelancer 207,"docker, sql, html, ml",7.5,3.87,1387
+Freelancer 208,"python, sql, data analysis, ml, nodejs",2.6,3.99,1323
+Freelancer 209,"flask, nodejs, python, sql",6.8,4.05,1880
+Freelancer 210,"html, django, python, aws, flask",9.2,4.31,1479
+Freelancer 211,"flask, data analysis, ai",7.8,4.73,484
+Freelancer 212,"react, docker, html, aws, flask, ml",5.4,4.21,529
+Freelancer 213,"sql, ml, ai, flask",7.0,3.81,297
+Freelancer 214,"ml, django, javascript, css, html, sql",6.2,4.66,1246
+Freelancer 215,"css, django, nodejs, ml, aws, javascript",3.8,4.58,1556
+Freelancer 216,"nodejs, css, javascript, django",1.1,3.53,992
+Freelancer 217,"python, ml, django, css, ai",8.8,3.66,546
+Freelancer 218,"css, ai, html, sql",1.7,4.06,1334
+Freelancer 219,"data analysis, nodejs, ai, react, javascript",2.9,4.79,1305
+Freelancer 220,"data analysis, css, flask",2.1,4.92,1830
+Freelancer 221,"ml, docker, nodejs, aws",1.6,4.66,1893
+Freelancer 222,"css, python, django, html",4.2,4.04,1469
+Freelancer 223,"python, docker, javascript",7.7,4.27,514
+Freelancer 224,"nodejs, html, react, ai",3.6,3.7,1729
+Freelancer 225,"data analysis, html, css, docker, aws, ml",4.1,4.49,1474
+Freelancer 226,"nodejs, javascript, docker, react, data analysis, html",5.1,4.02,1823
+Freelancer 227,"sql, python, data analysis",6.9,4.19,1458
+Freelancer 228,"aws, react, django, html",5.3,4.16,1236
+Freelancer 229,"nodejs, sql, aws, javascript, css, django",6.9,4.68,568
+Freelancer 230,"python, javascript, docker, nodejs, sql",7.9,4.28,1148
+Freelancer 231,"aws, css, ml",6.0,3.53,917
+Freelancer 232,"react, css, aws, flask, nodejs, docker",6.7,3.69,1675
+Freelancer 233,"python, django, ml, html, flask",1.8,4.1,1472
+Freelancer 234,"react, django, sql, aws, nodejs, flask",2.2,4.94,1918
+Freelancer 235,"docker, python, flask, react, aws",5.4,3.85,323
+Freelancer 236,"nodejs, docker, aws, javascript, data analysis, ml",5.3,3.53,1651
+Freelancer 237,"nodejs, ml, data analysis, ai, flask, javascript",7.2,4.97,1288
+Freelancer 238,"docker, react, javascript, nodejs",1.8,3.51,491
+Freelancer 239,"flask, react, html",8.1,3.65,839
+Freelancer 240,"data analysis, flask, react, django",3.9,4.79,361
+Freelancer 241,"nodejs, docker, html, flask",6.5,4.79,572
+Freelancer 242,"nodejs, python, ai",6.9,4.9,1723
+Freelancer 243,"sql, ml, python, docker, data analysis, nodejs",9.6,4.68,975
+Freelancer 244,"css, nodejs, aws, python, html",1.3,4.22,598
+Freelancer 245,"python, html, flask",1.2,4.41,1465
+Freelancer 246,"aws, docker, data analysis",1.9,3.61,509
+Freelancer 247,"data analysis, docker, html, flask",8.8,4.53,514
+Freelancer 248,"docker, javascript, ai, nodejs, data analysis, sql",8.7,3.9,1019
+Freelancer 249,"ai, python, aws, nodejs, react, css",1.5,3.97,867
+Freelancer 250,"python, data analysis, django",7.4,4.93,1972
+Freelancer 251,"css, javascript, aws, python, ml",1.3,4.63,216
+Freelancer 252,"sql, ml, css, docker",1.4,4.06,606
+Freelancer 253,"data analysis, css, nodejs, ai",7.9,4.2,246
+Freelancer 254,"css, javascript, nodejs, html, ml, ai",3.0,3.76,1793
+Freelancer 255,"aws, docker, django, html, javascript, ml",5.0,4.83,1709
+Freelancer 256,"flask, javascript, nodejs, ml",7.3,4.81,1363
+Freelancer 257,"aws, data analysis, react, python, docker, nodejs",3.5,4.61,1099
+Freelancer 258,"django, css, aws, data analysis",8.2,3.68,1785
+Freelancer 259,"django, ml, react, aws, flask",8.0,3.87,1025
+Freelancer 260,"ai, docker, ml, django, nodejs, aws",3.6,4.06,1585
+Freelancer 261,"ml, html, django, javascript",9.1,4.54,917
+Freelancer 262,"sql, html, nodejs",2.4,4.59,573
+Freelancer 263,"react, css, aws, sql",1.7,3.76,1234
+Freelancer 264,"docker, css, javascript, django, aws, sql",2.8,4.1,715
+Freelancer 265,"django, nodejs, ai, ml, python, docker",4.1,4.28,1913
+Freelancer 266,"flask, docker, react, html",4.5,3.6,1902
+Freelancer 267,"ai, aws, django, html, javascript",9.8,4.74,1904
+Freelancer 268,"react, aws, django, python, javascript",2.2,4.26,1563
+Freelancer 269,"css, flask, ai, data analysis, django, docker",7.2,4.25,1188
+Freelancer 270,"django, nodejs, javascript",1.6,4.42,1693
+Freelancer 271,"flask, sql, data analysis, javascript, nodejs, docker",3.4,4.47,1097
+Freelancer 272,"ai, flask, javascript, django",8.8,3.66,408
+Freelancer 273,"javascript, react, css, flask",9.9,4.7,601
+Freelancer 274,"aws, django, css",7.3,4.16,1445
+Freelancer 275,"django, ml, javascript",1.4,3.6,565
+Freelancer 276,"sql, python, nodejs, data analysis, react, flask",7.0,4.6,465
+Freelancer 277,"ml, css, docker",1.6,3.9,408
+Freelancer 278,"react, ai, nodejs",8.5,4.81,1118
+Freelancer 279,"javascript, react, data analysis, flask, sql, django",3.4,3.66,605
+Freelancer 280,"flask, ai, nodejs, docker",2.6,3.96,1115
+Freelancer 281,"javascript, docker, ai, nodejs, sql, ml",7.9,4.26,1968
+Freelancer 282,"data analysis, ml, django, css, flask, ai",5.5,4.13,1536
+Freelancer 283,"django, docker, css, nodejs",2.1,3.91,1983
+Freelancer 284,"css, ai, react, data analysis",2.2,4.73,1829
+Freelancer 285,"aws, ai, html, data analysis, flask, javascript",6.4,4.87,1792
+Freelancer 286,"python, nodejs, django, react, flask, css",2.9,4.82,1085
+Freelancer 287,"django, flask, html",3.1,4.67,1669
+Freelancer 288,"html, django, sql, nodejs",5.7,3.8,892
+Freelancer 289,"react, docker, python, ai, javascript, nodejs",1.4,4.14,1374
+Freelancer 290,"aws, data analysis, react, ai, css",1.3,4.8,1837
+Freelancer 291,"ml, ai, sql, javascript, flask",6.6,4.04,501
+Freelancer 292,"aws, ml, sql, react, css, django",7.7,3.55,272
+Freelancer 293,"nodejs, react, ai",4.8,4.51,1209
+Freelancer 294,"sql, django, flask, aws, docker",5.6,3.72,537
+Freelancer 295,"python, react, flask, sql, javascript, docker",4.6,4.87,781
+Freelancer 296,"flask, ai, javascript",4.0,4.72,1992
+Freelancer 297,"javascript, flask, ai, ml, docker, nodejs",6.8,4.6,752
+Freelancer 298,"docker, django, sql",6.8,4.39,1234
+Freelancer 299,"aws, ml, docker",6.5,3.54,353
+Freelancer 300,"flask, ai, nodejs, html",7.0,4.48,644
+Freelancer 301,"javascript, django, docker, ai, python, css",6.4,3.61,729
+Freelancer 302,"ml, css, react",1.2,4.69,1487
+Freelancer 303,"javascript, aws, django",9.0,4.87,894
+Freelancer 304,"django, aws, docker, html",7.0,4.73,809
+Freelancer 305,"python, css, nodejs, ai, aws, docker",6.9,3.84,957
+Freelancer 306,"aws, data analysis, javascript",7.8,4.22,1436
+Freelancer 307,"javascript, aws, html, ai",5.4,4.17,576
+Freelancer 308,"sql, aws, css, data analysis, python",6.5,4.08,1885
+Freelancer 309,"ai, sql, css, docker, nodejs",2.9,4.06,1358
+Freelancer 310,"python, sql, docker",4.0,3.54,1619
+Freelancer 311,"sql, python, data analysis, docker, ai, react",5.1,4.01,1185
+Freelancer 312,"ml, data analysis, django, flask, react, ai",3.6,4.47,1383
+Freelancer 313,"aws, django, python, nodejs",9.5,3.67,385
+Freelancer 314,"ai, docker, flask",3.6,4.12,707
+Freelancer 315,"javascript, aws, django, ai",5.2,4.79,1733
+Freelancer 316,"ai, react, aws, javascript, css",4.7,3.71,1732
+Freelancer 317,"flask, aws, sql, ml, data analysis",6.8,4.17,1078
+Freelancer 318,"react, python, django",5.8,3.76,1881
+Freelancer 319,"data analysis, flask, ai, sql, html, javascript",5.7,4.71,373
+Freelancer 320,"aws, react, sql, python",9.0,4.99,1574
+Freelancer 321,"react, python, ai, css, django, javascript",3.1,4.51,924
+Freelancer 322,"flask, javascript, ai, docker",5.0,4.45,308
+Freelancer 323,"sql, ai, django",3.6,4.1,1756
+Freelancer 324,"python, aws, ml, data analysis, django",6.5,4.4,1375
+Freelancer 325,"ml, django, python, javascript, flask",6.7,4.04,763
+Freelancer 326,"docker, flask, html, css, react",9.2,3.96,656
+Freelancer 327,"react, css, ml",1.8,4.77,1735
+Freelancer 328,"nodejs, sql, data analysis, python",4.8,4.55,458
+Freelancer 329,"data analysis, aws, django, docker, sql, ai",9.5,4.19,1699
+Freelancer 330,"flask, nodejs, css",9.8,4.14,464
+Freelancer 331,"sql, ml, javascript",4.7,3.99,1475
+Freelancer 332,"flask, data analysis, javascript, python, ai",1.5,4.95,287
+Freelancer 333,"html, ml, data analysis, aws, sql, django",6.8,4.44,1941
+Freelancer 334,"nodejs, css, django",7.9,4.1,1841
+Freelancer 335,"ml, nodejs, docker",3.2,4.49,1513
+Freelancer 336,"docker, ml, ai",8.0,4.2,1630
+Freelancer 337,"react, flask, nodejs, ml, python, aws",3.2,3.53,444
+Freelancer 338,"css, ml, react",4.8,3.62,433
+Freelancer 339,"react, flask, docker, nodejs",8.1,4.45,855
+Freelancer 340,"aws, data analysis, html, css, django",3.1,4.9,705
+Freelancer 341,"flask, ai, python, sql, aws",8.9,4.2,1234
+Freelancer 342,"ml, flask, sql, docker, django, python",4.0,4.95,1768
+Freelancer 343,"javascript, sql, nodejs, python",7.5,4.63,867
+Freelancer 344,"aws, ai, django, react, docker, ml",5.2,4.86,1700
+Freelancer 345,"django, nodejs, javascript, data analysis, ai, ml",5.6,4.06,485
+Freelancer 346,"react, ai, nodejs, aws",2.0,4.79,1360
+Freelancer 347,"django, ml, docker, css",1.9,4.62,450
+Freelancer 348,"html, python, ai",8.0,4.48,1616
+Freelancer 349,"django, ai, data analysis, ml, html",4.2,3.97,1610
+Freelancer 350,"html, ai, flask, data analysis",1.9,4.99,1087
+Freelancer 351,"ml, django, ai, flask",3.4,4.86,1713
+Freelancer 352,"react, javascript, sql, ml, html",7.4,4.01,618
+Freelancer 353,"html, sql, css, ml",4.2,3.55,672
+Freelancer 354,"html, docker, django, flask, react",9.3,3.65,1369
+Freelancer 355,"nodejs, python, react, aws, docker, html",2.0,4.3,1319
+Freelancer 356,"aws, html, python, css, javascript, nodejs",7.6,4.68,1060
+Freelancer 357,"django, css, html, nodejs, ai, flask",2.0,4.82,360
+Freelancer 358,"react, docker, ml, sql, python, ai",5.7,3.84,295
+Freelancer 359,"javascript, ml, data analysis, ai",3.2,4.92,1900
+Freelancer 360,"aws, nodejs, python, flask, django",2.5,4.9,936
+Freelancer 361,"nodejs, ml, sql, html, javascript, docker",1.4,4.04,1235
+Freelancer 362,"ai, docker, python, html, sql, javascript",7.0,3.86,543
+Freelancer 363,"react, data analysis, nodejs, sql",5.1,4.0,1223
+Freelancer 364,"sql, react, javascript",6.9,4.28,1650
+Freelancer 365,"django, ml, nodejs, css, flask",8.8,4.71,1778
+Freelancer 366,"ai, javascript, flask",6.7,4.8,1084
+Freelancer 367,"data analysis, django, ai, flask, css",6.6,3.87,766
+Freelancer 368,"ai, ml, data analysis, nodejs, flask, docker",2.4,5.0,939
+Freelancer 369,"sql, css, html, django, data analysis, ai",4.6,4.18,888
+Freelancer 370,"javascript, python, aws, flask",6.3,4.19,1877
+Freelancer 371,"react, docker, data analysis, css",7.8,3.84,1643
+Freelancer 372,"css, nodejs, ai, html",6.0,4.43,1001
+Freelancer 373,"html, flask, css, docker, sql",6.7,4.98,1752
+Freelancer 374,"ml, flask, ai, html",5.7,3.99,1207
+Freelancer 375,"nodejs, react, aws",8.3,4.64,716
+Freelancer 376,"aws, ml, html, flask",3.5,4.03,1081
+Freelancer 377,"javascript, flask, ai, docker",1.4,3.91,1825
+Freelancer 378,"ml, flask, aws, data analysis",2.4,4.5,1799
+Freelancer 379,"react, ai, css, aws",2.9,4.06,1862
+Freelancer 380,"css, react, flask",8.7,4.39,350
+Freelancer 381,"nodejs, django, css, react, ml",5.5,3.79,1966
+Freelancer 382,"python, ai, ml",6.4,4.92,446
+Freelancer 383,"html, ai, sql, react",7.4,4.49,1466
+Freelancer 384,"ai, html, ml, react, django",1.6,4.47,1509
+Freelancer 385,"html, docker, python, css",3.4,3.92,1824
+Freelancer 386,"javascript, django, html, ml, sql",6.6,4.13,234
+Freelancer 387,"ml, django, flask, html, aws",3.7,4.51,987
+Freelancer 388,"python, javascript, aws, ml, data analysis",2.6,3.72,963
+Freelancer 389,"react, data analysis, ml, flask",9.9,4.5,881
+Freelancer 390,"data analysis, flask, sql, ml, nodejs",9.8,3.78,434
+Freelancer 391,"javascript, ai, docker, css, ml, data analysis",4.1,4.31,747
+Freelancer 392,"sql, html, docker, ml",9.5,4.93,1182
+Freelancer 393,"html, django, react, nodejs",4.4,4.91,1963
+Freelancer 394,"ml, css, data analysis, sql",3.3,3.95,1165
+Freelancer 395,"flask, docker, data analysis, django, html, javascript",7.9,3.93,751
+Freelancer 396,"react, ai, javascript, python, html, data analysis",3.7,4.77,1748
+Freelancer 397,"ai, javascript, sql, css, aws",1.9,4.16,1274
+Freelancer 398,"ai, css, react, django, ml",4.8,3.81,1635
+Freelancer 399,"data analysis, javascript, ml, react",6.4,4.59,211
+Freelancer 400,"django, react, ai, data analysis",1.2,4.68,1994
+Freelancer 401,"flask, nodejs, docker",6.7,4.82,1201
+Freelancer 402,"data analysis, javascript, css, ml, sql",4.7,3.63,1008
+Freelancer 403,"ml, nodejs, css, data analysis, sql, html",4.5,4.18,512
+Freelancer 404,"javascript, css, django",6.0,3.86,424
+Freelancer 405,"python, javascript, data analysis, nodejs, css",5.3,4.2,538
+Freelancer 406,"javascript, data analysis, sql, ml, ai",8.2,4.27,1520
+Freelancer 407,"nodejs, sql, ml, react, django",4.5,4.6,219
+Freelancer 408,"html, react, ml, docker",3.4,4.83,706
+Freelancer 409,"flask, ai, nodejs",4.5,3.84,1769
+Freelancer 410,"ai, html, nodejs, css, react",7.7,3.95,1772
+Freelancer 411,"css, aws, nodejs",1.3,3.8,254
+Freelancer 412,"aws, data analysis, ai, ml, react",5.0,4.09,1160
+Freelancer 413,"sql, javascript, docker",1.1,3.57,862
+Freelancer 414,"data analysis, react, aws, flask, sql, css",1.7,4.11,1644
+Freelancer 415,"data analysis, docker, flask, django, nodejs, aws",9.2,4.93,524
+Freelancer 416,"ai, flask, data analysis, react",8.6,4.34,543
+Freelancer 417,"css, sql, python",3.7,4.72,1199
+Freelancer 418,"flask, ai, python, aws",2.2,4.04,1670
+Freelancer 419,"aws, python, sql, nodejs",5.5,4.41,1664
+Freelancer 420,"css, nodejs, data analysis",5.0,4.15,388
+Freelancer 421,"javascript, python, ml",9.5,4.13,1815
+Freelancer 422,"data analysis, nodejs, docker",6.2,4.44,1587
+Freelancer 423,"flask, css, sql",1.0,4.5,503
+Freelancer 424,"flask, ml, sql, data analysis, html",3.8,4.88,626
+Freelancer 425,"react, aws, html, data analysis",1.5,3.6,1457
+Freelancer 426,"react, javascript, css",3.7,4.99,1472
+Freelancer 427,"django, html, python, docker, flask",9.1,4.37,734
+Freelancer 428,"docker, python, ml, flask",3.9,4.37,213
+Freelancer 429,"data analysis, nodejs, javascript, flask, docker, html",9.0,4.6,1858
+Freelancer 430,"flask, data analysis, sql, css",7.9,4.39,512
+Freelancer 431,"django, ai, react, ml, sql, python",7.0,4.74,206
+Freelancer 432,"docker, javascript, sql, css, python",8.4,4.14,826
+Freelancer 433,"aws, css, python, docker, react",7.7,4.37,465
+Freelancer 434,"python, ml, ai",3.2,3.73,1342
+Freelancer 435,"django, docker, aws, ml, sql, data analysis",9.2,4.33,1863
+Freelancer 436,"react, docker, ml",3.3,4.24,1513
+Freelancer 437,"react, docker, ai, ml, html",8.7,3.6,1471
+Freelancer 438,"ml, css, sql, docker",1.7,4.78,1857
+Freelancer 439,"data analysis, sql, javascript",4.8,4.16,536
+Freelancer 440,"flask, nodejs, django, docker",7.8,4.31,695
+Freelancer 441,"python, django, nodejs, ml, html",8.3,4.69,291
+Freelancer 442,"nodejs, django, sql",5.6,3.75,735
+Freelancer 443,"data analysis, nodejs, html, react, javascript",6.2,3.91,1793
+Freelancer 444,"react, django, ai, css, data analysis, ml",1.4,4.38,1641
+Freelancer 445,"sql, nodejs, ai, django, docker, html",2.9,3.58,1549
+Freelancer 446,"react, flask, python, data analysis, sql",7.4,4.45,570
+Freelancer 447,"javascript, ml, sql",7.4,4.68,908
+Freelancer 448,"flask, docker, nodejs",3.4,4.53,877
+Freelancer 449,"data analysis, ml, python, javascript",6.4,3.75,987
+Freelancer 450,"css, html, ml",9.6,4.02,895
+Freelancer 451,"aws, html, ai, django, javascript, ml",5.2,3.9,1615
+Freelancer 452,"ml, html, css, aws, ai",6.3,4.86,1145
+Freelancer 453,"html, flask, javascript, nodejs, ai",3.8,4.96,1613
+Freelancer 454,"aws, flask, data analysis, nodejs",2.3,4.77,1999
+Freelancer 455,"flask, python, css, react, ai",1.4,4.9,510
+Freelancer 456,"nodejs, django, react, sql, docker",1.5,3.54,891
+Freelancer 457,"docker, ai, css",1.1,3.64,976
+Freelancer 458,"docker, ai, python",5.1,4.79,1623
+Freelancer 459,"ai, javascript, css",8.0,4.57,603
+Freelancer 460,"react, ai, aws",1.4,3.72,1495
+Freelancer 461,"react, ml, flask",3.8,3.93,270
+Freelancer 462,"docker, django, javascript, aws",4.2,4.67,1997
+Freelancer 463,"ml, react, html, aws, javascript, sql",2.5,4.23,1941
+Freelancer 464,"docker, html, sql, ml, data analysis, react",7.1,4.43,773
+Freelancer 465,"python, html, nodejs, ml, flask",6.8,4.4,1720
+Freelancer 466,"aws, ai, sql, css, docker, ml",7.4,3.8,302
+Freelancer 467,"css, ai, docker, data analysis",5.9,4.08,1645
+Freelancer 468,"ml, javascript, flask, django",8.9,3.98,1322
+Freelancer 469,"nodejs, css, html, flask, aws",4.5,3.51,1179
+Freelancer 470,"aws, nodejs, ml, django",3.7,4.39,241
+Freelancer 471,"ai, css, javascript",4.9,4.2,1280
+Freelancer 472,"python, data analysis, javascript, aws, react, css",6.6,4.73,327
+Freelancer 473,"sql, react, html, ml, django",8.5,4.65,1441
+Freelancer 474,"nodejs, python, html, ml, ai",5.9,3.55,562
+Freelancer 475,"django, javascript, aws",5.9,3.79,565
+Freelancer 476,"react, ml, python, ai, data analysis",8.9,4.78,1157
+Freelancer 477,"react, flask, css",6.3,4.25,324
+Freelancer 478,"nodejs, flask, css, sql, python",6.2,4.88,395
+Freelancer 479,"nodejs, flask, data analysis, sql, aws",8.7,3.74,667
+Freelancer 480,"ml, sql, docker, aws, flask, nodejs",3.4,4.43,547
+Freelancer 481,"django, ml, sql, ai, docker",5.3,3.94,1984
+Freelancer 482,"javascript, nodejs, python",8.4,4.4,881
+Freelancer 483,"sql, django, python",7.7,4.97,958
+Freelancer 484,"data analysis, ml, docker, python",9.0,3.83,1467
+Freelancer 485,"aws, javascript, docker, python",8.8,3.63,628
+Freelancer 486,"data analysis, aws, css, python, ai, sql",2.6,4.12,384
+Freelancer 487,"javascript, sql, data analysis, react",4.4,3.54,1901
+Freelancer 488,"sql, python, ai, react, html",7.9,3.91,1699
+Freelancer 489,"ml, django, aws, html, react",8.4,4.08,1989
+Freelancer 490,"javascript, react, python, docker, html",9.2,4.81,595
+Freelancer 491,"react, aws, data analysis, ml",6.3,4.69,1796
+Freelancer 492,"flask, css, ai, data analysis, react, ml",4.3,3.71,1795
+Freelancer 493,"django, ml, nodejs",9.7,3.69,1037
+Freelancer 494,"ml, sql, react, python, nodejs",2.6,3.59,646
+Freelancer 495,"ml, html, css, django, aws, flask",5.3,4.3,1328
+Freelancer 496,"ml, ai, django",9.2,3.77,998
+Freelancer 497,"flask, javascript, css, django",7.0,4.18,1941
+Freelancer 498,"react, html, nodejs, ml, data analysis",3.3,4.72,702
+Freelancer 499,"django, react, html, python, css, ml",5.2,4.36,635
+Freelancer 500,"flask, javascript, data analysis, aws, html, react",1.8,3.67,535
+Freelancer 501,"aws, docker, javascript, django, nodejs",5.9,3.72,949
+Freelancer 502,"javascript, data analysis, css",6.4,3.65,846
+Freelancer 503,"ml, css, aws, html",7.0,3.77,255
+Freelancer 504,"ai, nodejs, docker, sql, django, javascript",7.3,4.21,515
+Freelancer 505,"sql, css, javascript, python, aws, nodejs",4.8,3.88,1482
+Freelancer 506,"ai, django, nodejs, ml, aws",2.8,4.83,1710
+Freelancer 507,"aws, python, html, data analysis, flask",9.7,3.76,974
+Freelancer 508,"flask, nodejs, docker",9.7,4.91,710
+Freelancer 509,"python, django, sql, flask",5.9,4.27,890
+Freelancer 510,"flask, aws, django, ai, javascript, css",3.2,3.72,557
+Freelancer 511,"data analysis, ml, css, docker",4.2,3.77,532
+Freelancer 512,"django, sql, docker",5.3,3.71,1572
+Freelancer 513,"flask, django, react, javascript",2.9,3.85,1999
+Freelancer 514,"aws, django, react",8.0,4.43,825
+Freelancer 515,"ai, ml, javascript, html",2.0,3.76,1689
+Freelancer 516,"docker, javascript, ml, flask, ai, nodejs",5.7,4.03,1626
+Freelancer 517,"nodejs, html, css, javascript, flask",2.8,4.73,1137
+Freelancer 518,"django, flask, javascript, react, html, aws",3.1,3.98,1853
+Freelancer 519,"docker, ml, ai, react, javascript, css",4.8,4.08,1686
+Freelancer 520,"docker, flask, ai, aws",9.1,4.17,561
+Freelancer 521,"docker, sql, data analysis",5.3,4.05,1912
+Freelancer 522,"html, sql, docker, django",1.1,4.91,901
+Freelancer 523,"data analysis, flask, html",8.3,3.79,1080
+Freelancer 524,"javascript, aws, react, sql, css",5.7,4.04,1895
+Freelancer 525,"react, html, python",5.2,3.92,772
+Freelancer 526,"data analysis, sql, nodejs",3.0,4.04,538
+Freelancer 527,"python, aws, ml, docker, data analysis",3.3,4.51,1022
+Freelancer 528,"react, css, ml, sql, flask, nodejs",8.9,4.22,1588
+Freelancer 529,"ai, javascript, python, django, aws, data analysis",4.9,4.44,1424
+Freelancer 530,"html, css, python, react, aws",9.3,4.92,913
+Freelancer 531,"ai, data analysis, css, javascript, html",8.0,3.55,1117
+Freelancer 532,"python, django, flask, react, aws",3.3,3.72,641
+Freelancer 533,"python, nodejs, ai, html",5.7,3.55,1255
+Freelancer 534,"react, data analysis, javascript, docker",9.0,4.94,1661
+Freelancer 535,"css, docker, ai, react, sql, django",1.8,4.88,944
+Freelancer 536,"html, ai, sql",7.1,4.14,1938
+Freelancer 537,"flask, ai, sql, html, react, django",1.9,4.26,501
+Freelancer 538,"css, aws, nodejs, django",9.5,4.58,663
+Freelancer 539,"data analysis, django, docker",4.7,4.03,1169
+Freelancer 540,"aws, data analysis, python, html, sql",2.5,4.35,456
+Freelancer 541,"sql, docker, ai, react, aws, nodejs",4.0,4.27,1393
+Freelancer 542,"django, javascript, ai, flask, nodejs",2.6,4.84,1824
+Freelancer 543,"docker, ai, css, html, react, javascript",3.6,4.79,1775
+Freelancer 544,"docker, data analysis, css, ai, react, ml",5.9,3.74,1924
+Freelancer 545,"aws, django, react",5.0,3.75,1664
+Freelancer 546,"docker, ml, aws, nodejs",4.8,4.9,1986
+Freelancer 547,"html, react, javascript, data analysis, ai, docker",9.4,3.84,306
+Freelancer 548,"ml, javascript, django, python, react",5.9,3.74,1027
+Freelancer 549,"javascript, docker, react, data analysis, css, html",9.6,3.85,1986
+Freelancer 550,"aws, ai, docker",8.7,4.15,399
+Freelancer 551,"ai, nodejs, aws, data analysis, html",2.4,4.06,600
+Freelancer 552,"python, react, ml",3.2,4.62,1636
+Freelancer 553,"nodejs, data analysis, css",1.5,4.09,695
+Freelancer 554,"css, django, nodejs, sql, data analysis, javascript",8.8,3.91,933
+Freelancer 555,"html, javascript, python, docker, flask, nodejs",4.4,4.44,251
+Freelancer 556,"aws, javascript, css",1.3,4.94,443
+Freelancer 557,"css, ai, javascript, aws, react",6.0,4.84,243
+Freelancer 558,"react, aws, html, python, ml",4.8,4.18,1538
+Freelancer 559,"css, python, docker",1.6,3.63,1309
+Freelancer 560,"javascript, docker, flask",4.3,4.48,1747
+Freelancer 561,"sql, ai, flask, javascript",1.4,4.47,1646
+Freelancer 562,"ai, javascript, python",4.5,3.87,1896
+Freelancer 563,"data analysis, javascript, html, ml",5.9,4.5,573
+Freelancer 564,"docker, django, css, flask",4.0,4.75,339
+Freelancer 565,"nodejs, aws, css, react, django, ai",7.9,4.41,1082
+Freelancer 566,"nodejs, data analysis, react, javascript",7.6,4.03,948
+Freelancer 567,"flask, django, aws, css",7.1,4.42,555
+Freelancer 568,"ai, docker, nodejs, html, javascript",3.6,4.14,228
+Freelancer 569,"javascript, flask, css",2.9,3.64,827
+Freelancer 570,"sql, css, aws, nodejs, ai",1.5,3.6,1524
+Freelancer 571,"sql, ai, react, flask, docker, javascript",3.2,4.21,901
+Freelancer 572,"python, ml, html",9.2,3.74,1468
+Freelancer 573,"react, javascript, css, sql, flask, aws",7.6,3.54,236
+Freelancer 574,"sql, html, javascript",6.7,3.7,343
+Freelancer 575,"sql, python, ai, flask",2.7,4.89,1680
+Freelancer 576,"sql, react, aws",6.0,3.54,314
+Freelancer 577,"react, python, ai, data analysis",2.9,4.67,967
+Freelancer 578,"ai, react, nodejs, ml, javascript, python",3.2,4.24,689
+Freelancer 579,"javascript, css, python",4.3,3.72,1257
+Freelancer 580,"sql, javascript, aws, ai, docker",4.3,4.81,766
+Freelancer 581,"sql, ai, data analysis, aws",5.4,4.28,1787
+Freelancer 582,"flask, react, ml, nodejs",1.3,4.67,1505
+Freelancer 583,"html, react, css, django, docker, python",9.6,4.85,1041
+Freelancer 584,"python, flask, react, ai, aws, html",5.2,4.11,518
+Freelancer 585,"react, docker, nodejs, sql, ml, html",5.1,3.85,490
+Freelancer 586,"aws, javascript, data analysis, flask, python, css",7.7,4.89,1182
+Freelancer 587,"django, python, ml, css, nodejs, flask",8.0,3.63,353
+Freelancer 588,"sql, ai, python, nodejs, django",3.1,3.68,410
+Freelancer 589,"data analysis, css, sql, ml, aws, django",8.3,3.75,898
+Freelancer 590,"html, ai, ml, aws, nodejs, python",7.1,4.99,1701
+Freelancer 591,"sql, data analysis, flask",10.0,3.8,857
+Freelancer 592,"html, ml, javascript, sql, data analysis",10.0,4.2,1792
+Freelancer 593,"css, sql, react, data analysis",8.4,3.61,1596
+Freelancer 594,"css, sql, javascript, ai",3.3,4.87,793
+Freelancer 595,"aws, ml, flask",3.6,4.89,1346
+Freelancer 596,"aws, docker, data analysis, css, django",8.6,4.6,266
+Freelancer 597,"data analysis, css, python",3.8,3.9,989
+Freelancer 598,"data analysis, react, flask, ai, docker",2.2,4.81,1977
+Freelancer 599,"html, sql, data analysis, ml, python, ai",8.4,4.06,659
+Freelancer 600,"sql, django, python, nodejs, ai",9.8,4.09,1522
+Freelancer 601,"ai, django, html, python, javascript, ml",3.9,4.4,341
+Freelancer 602,"django, data analysis, python, react, javascript",6.7,4.57,434
+Freelancer 603,"html, docker, ml, nodejs, python",1.9,4.02,518
+Freelancer 604,"nodejs, sql, react, ml, docker",6.7,4.31,262
+Freelancer 605,"html, css, data analysis, nodejs",9.7,4.4,290
+Freelancer 606,"react, css, aws, nodejs",9.7,4.3,731
+Freelancer 607,"django, ml, docker, python",2.8,4.5,1370
+Freelancer 608,"ai, aws, nodejs, html, docker, css",4.5,4.14,495
+Freelancer 609,"data analysis, react, flask",8.9,4.03,1727
+Freelancer 610,"html, docker, react",2.2,3.98,1144
+Freelancer 611,"ml, nodejs, javascript, django, data analysis, python",2.1,3.5,998
+Freelancer 612,"nodejs, javascript, aws, python",8.4,4.01,1948
+Freelancer 613,"sql, docker, ai, nodejs, javascript",8.0,4.03,1298
+Freelancer 614,"css, docker, data analysis, django, ai, ml",5.0,4.6,1988
+Freelancer 615,"django, ai, nodejs",3.3,4.82,1801
+Freelancer 616,"ml, aws, docker",9.2,3.97,1094
+Freelancer 617,"ml, docker, django, data analysis, html",9.5,4.03,1583
+Freelancer 618,"ml, data analysis, react",2.2,3.66,1598
+Freelancer 619,"javascript, docker, flask",4.6,3.95,1144
+Freelancer 620,"aws, react, html",8.2,4.88,1566
+Freelancer 621,"django, react, javascript, nodejs",2.7,4.7,1024
+Freelancer 622,"html, javascript, python, ai, data analysis, sql",8.3,3.65,1704
+Freelancer 623,"flask, aws, django, css",5.1,4.36,1294
+Freelancer 624,"sql, python, flask",3.4,4.88,1806
+Freelancer 625,"aws, javascript, react, ml, sql, nodejs",6.9,4.94,1417
+Freelancer 626,"react, python, sql, html, ai, django",7.0,4.44,1143
+Freelancer 627,"data analysis, nodejs, ai, aws",9.2,4.36,1637
+Freelancer 628,"javascript, aws, sql",1.2,4.27,1820
+Freelancer 629,"nodejs, python, sql, aws",4.3,4.55,909
+Freelancer 630,"aws, flask, data analysis, html, ml, django",7.6,3.92,392
+Freelancer 631,"javascript, django, sql, css, nodejs, ai",3.2,3.79,1711
+Freelancer 632,"python, django, sql, ml, flask, aws",1.7,4.47,864
+Freelancer 633,"aws, ml, nodejs, html",8.7,4.63,654
+Freelancer 634,"aws, flask, css",1.3,3.71,840
+Freelancer 635,"css, react, ml, django, docker",3.2,3.54,885
+Freelancer 636,"ai, javascript, flask, css",1.2,3.65,248
+Freelancer 637,"javascript, aws, sql, data analysis, docker, django",8.0,3.63,1985
+Freelancer 638,"ml, docker, flask",8.0,4.03,768
+Freelancer 639,"aws, python, ml, data analysis",3.7,4.38,1664
+Freelancer 640,"aws, ml, python, data analysis, ai",8.2,4.48,1384
+Freelancer 641,"docker, python, react, nodejs, django, data analysis",9.2,4.2,1172
+Freelancer 642,"ai, css, flask, javascript",5.4,3.73,1491
+Freelancer 643,"aws, css, data analysis, javascript, react, flask",3.0,3.93,1842
+Freelancer 644,"flask, javascript, ml, docker, aws, html",2.0,4.74,1686
+Freelancer 645,"python, ml, aws",1.6,3.72,1931
+Freelancer 646,"aws, data analysis, flask, docker, sql",1.8,3.66,1016
+Freelancer 647,"ml, css, javascript",4.4,4.15,572
+Freelancer 648,"ai, nodejs, docker, python",3.9,4.79,1865
+Freelancer 649,"data analysis, javascript, django, html, aws",7.3,4.94,1860
+Freelancer 650,"data analysis, flask, python, sql, css, react",2.2,4.36,937
+Freelancer 651,"css, sql, react, ml",9.1,3.84,651
+Freelancer 652,"nodejs, aws, ml",4.9,3.56,264
+Freelancer 653,"aws, javascript, ml, flask, html",6.8,3.96,500
+Freelancer 654,"javascript, flask, docker, django, react",4.9,4.36,493
+Freelancer 655,"nodejs, ml, django",2.0,4.91,790
+Freelancer 656,"ai, react, aws, html, nodejs, ml",8.2,4.43,1607
+Freelancer 657,"docker, ml, html",9.4,4.58,757
+Freelancer 658,"sql, html, ml, django, flask",8.3,4.12,1301
+Freelancer 659,"react, data analysis, python, css, nodejs, django",2.2,3.68,1741
+Freelancer 660,"css, data analysis, html, aws, flask",3.9,4.41,597
+Freelancer 661,"javascript, data analysis, nodejs, css",2.0,3.64,618
+Freelancer 662,"data analysis, sql, ai, nodejs, aws, docker",9.8,4.99,1225
+Freelancer 663,"react, docker, nodejs, data analysis, html, sql",4.9,4.3,1711
+Freelancer 664,"python, ml, javascript",1.8,4.73,1387
+Freelancer 665,"html, docker, ml, javascript, react",3.1,3.82,928
+Freelancer 666,"react, html, flask, django, aws",6.4,3.68,1626
+Freelancer 667,"javascript, nodejs, ml, ai, data analysis, python",5.8,4.14,1785
+Freelancer 668,"css, html, react, ai, flask",9.1,4.36,1866
+Freelancer 669,"sql, django, css, html",3.3,4.05,493
+Freelancer 670,"data analysis, python, flask, docker",7.2,4.55,738
+Freelancer 671,"python, ml, data analysis, nodejs, flask, ai",3.2,4.6,418
+Freelancer 672,"html, nodejs, ai",6.3,3.87,564
+Freelancer 673,"ml, python, nodejs, aws, data analysis, html",2.9,4.48,1617
+Freelancer 674,"aws, python, javascript, docker",9.3,4.29,355
+Freelancer 675,"ai, flask, css",1.9,3.88,1523
+Freelancer 676,"javascript, ai, docker, aws",5.0,4.92,1074
+Freelancer 677,"docker, nodejs, data analysis",4.6,3.97,445
+Freelancer 678,"javascript, django, docker, sql",4.7,4.5,1604
+Freelancer 679,"html, sql, data analysis, ml, aws",4.4,4.29,1306
+Freelancer 680,"docker, sql, ml",7.6,4.58,407
+Freelancer 681,"django, docker, flask, javascript, aws",4.9,3.79,530
+Freelancer 682,"python, data analysis, ml, css",2.0,4.39,264
+Freelancer 683,"aws, ai, ml",3.6,4.17,1971
+Freelancer 684,"html, css, docker, ai, python, nodejs",9.1,4.47,981
+Freelancer 685,"nodejs, data analysis, ml, python",3.7,4.37,1873
+Freelancer 686,"data analysis, javascript, django",1.4,3.72,224
+Freelancer 687,"aws, docker, ai, data analysis",6.3,4.94,903
+Freelancer 688,"ml, docker, javascript, flask, sql, python",6.1,4.19,1064
+Freelancer 689,"nodejs, ml, aws, python, react, css",8.6,4.62,677
+Freelancer 690,"aws, flask, django, data analysis, javascript, python",1.7,4.4,962
+Freelancer 691,"django, flask, nodejs, ml, aws",2.1,3.59,369
+Freelancer 692,"nodejs, aws, javascript, react",3.1,4.74,434
+Freelancer 693,"css, ai, html, nodejs, django",6.7,4.81,1785
+Freelancer 694,"django, nodejs, html, sql, data analysis, aws",4.0,4.34,1883
+Freelancer 695,"html, react, nodejs, css, sql",5.3,4.33,629
+Freelancer 696,"docker, ml, ai",7.5,4.58,1286
+Freelancer 697,"ml, nodejs, aws, flask, css, react",4.5,3.53,213
+Freelancer 698,"docker, html, ai, javascript",6.0,4.87,1275
+Freelancer 699,"django, ai, ml",8.3,4.28,1256
+Freelancer 700,"aws, css, docker",6.4,4.96,1216
+Freelancer 701,"nodejs, javascript, ai, aws, html",8.1,4.88,1664
+Freelancer 702,"django, flask, nodejs, ai, css, react",4.7,4.77,541
+Freelancer 703,"data analysis, css, javascript, docker, html",8.5,4.49,261
+Freelancer 704,"css, ai, data analysis, python, javascript, html",2.3,4.01,1701
+Freelancer 705,"python, javascript, css, sql, ml, aws",2.7,3.58,1501
+Freelancer 706,"flask, react, nodejs",8.6,3.81,1030
+Freelancer 707,"ai, python, css, sql",4.4,3.9,439
+Freelancer 708,"docker, data analysis, aws, css",8.5,3.88,485
+Freelancer 709,"javascript, ml, docker, css",6.8,3.53,1136
+Freelancer 710,"data analysis, css, python, docker, django, ai",9.2,4.79,640
+Freelancer 711,"python, html, flask, aws, django, ai",7.8,4.6,1395
+Freelancer 712,"aws, nodejs, html, python",1.4,4.77,361
+Freelancer 713,"ml, nodejs, data analysis, ai",8.9,3.91,1686
+Freelancer 714,"flask, python, html, javascript, nodejs",5.2,3.68,583
+Freelancer 715,"ai, react, sql, django",9.5,3.86,548
+Freelancer 716,"aws, react, ai, flask",10.0,3.73,213
+Freelancer 717,"flask, javascript, ai, data analysis, docker",7.9,4.86,1449
+Freelancer 718,"sql, react, django, javascript, nodejs, ai",1.7,4.63,622
+Freelancer 719,"django, aws, ai, javascript, css, nodejs",8.0,4.86,1500
+Freelancer 720,"django, sql, aws",3.3,4.35,1757
+Freelancer 721,"django, sql, flask, ml, docker, aws",5.3,4.15,1209
+Freelancer 722,"sql, flask, django, javascript, data analysis, docker",6.9,3.65,471
+Freelancer 723,"nodejs, data analysis, flask, django",1.8,4.02,456
+Freelancer 724,"sql, css, docker, data analysis",5.5,3.58,1489
+Freelancer 725,"nodejs, django, javascript, sql",9.1,4.54,1147
+Freelancer 726,"docker, javascript, django, python, html",7.0,3.72,1848
+Freelancer 727,"nodejs, css, data analysis, react, flask",8.0,3.65,1361
+Freelancer 728,"django, nodejs, css, javascript",5.7,4.37,382
+Freelancer 729,"python, ml, html, flask, react",5.7,3.8,960
+Freelancer 730,"css, django, ml, nodejs, docker",7.0,4.18,383
+Freelancer 731,"react, javascript, django, docker, ml",7.0,4.88,1328
+Freelancer 732,"javascript, nodejs, data analysis, sql, ai",3.4,4.08,1724
+Freelancer 733,"react, ml, css, django, data analysis, nodejs",8.0,4.04,1575
+Freelancer 734,"ml, docker, sql, django, flask, javascript",5.7,4.77,593
+Freelancer 735,"django, css, sql, aws, react, ml",2.1,3.59,1698
+Freelancer 736,"ml, django, data analysis",6.1,3.91,1833
+Freelancer 737,"python, ai, sql, flask, docker",1.4,4.02,997
+Freelancer 738,"flask, sql, javascript, ml, ai",2.2,4.9,1152
+Freelancer 739,"docker, aws, django",3.6,3.96,794
+Freelancer 740,"javascript, html, ai, data analysis",9.0,4.26,880
+Freelancer 741,"nodejs, sql, javascript",2.2,4.32,1948
+Freelancer 742,"sql, ai, flask, data analysis, docker, django",5.8,4.37,219
+Freelancer 743,"django, flask, aws",9.2,3.53,1661
+Freelancer 744,"html, ml, python, docker",8.7,4.0,431
+Freelancer 745,"javascript, css, ml, data analysis, aws",3.5,4.02,798
+Freelancer 746,"python, sql, data analysis, javascript, ml, docker",3.5,3.82,995
+Freelancer 747,"data analysis, docker, nodejs, ml, ai",3.3,4.93,1924
+Freelancer 748,"aws, react, ml, docker, sql, python",7.6,3.79,507
+Freelancer 749,"data analysis, docker, sql",3.6,4.08,1072
+Freelancer 750,"django, react, css, ai",4.7,4.5,1655
+Freelancer 751,"html, docker, django, flask, sql",3.0,3.64,1990
+Freelancer 752,"ml, html, docker, django, nodejs, aws",8.0,4.1,425
+Freelancer 753,"django, javascript, data analysis, ml, docker",5.8,4.27,1590
+Freelancer 754,"ai, react, ml, django, css",5.5,4.28,703
+Freelancer 755,"react, django, javascript, nodejs, ml",6.3,4.0,421
+Freelancer 756,"sql, ai, python, html, docker, django",3.2,4.5,275
+Freelancer 757,"react, aws, css, python, html, sql",9.1,3.73,543
+Freelancer 758,"python, html, django, data analysis, docker",2.9,4.64,565
+Freelancer 759,"flask, nodejs, html",7.6,4.82,776
+Freelancer 760,"ai, python, nodejs, django",9.4,5.0,1319
+Freelancer 761,"ai, html, react, data analysis",7.5,4.2,851
+Freelancer 762,"ai, nodejs, docker, python",5.3,4.42,716
+Freelancer 763,"docker, data analysis, nodejs, css, aws",6.9,4.9,1566
+Freelancer 764,"aws, python, nodejs, css, django",4.3,4.25,499
+Freelancer 765,"python, sql, flask",6.2,4.83,1142
+Freelancer 766,"sql, aws, ml, data analysis, nodejs, django",7.6,4.7,601
+Freelancer 767,"nodejs, ai, sql, ml, data analysis, aws",1.9,3.98,1938
+Freelancer 768,"ai, react, html, ml, docker, django",6.8,3.65,1394
+Freelancer 769,"data analysis, javascript, sql, nodejs, ai, ml",7.0,4.73,1839
+Freelancer 770,"python, aws, flask, sql, docker, ai",4.6,4.69,266
+Freelancer 771,"ai, django, javascript, html, react",3.6,4.27,275
+Freelancer 772,"ai, css, nodejs",1.6,4.98,498
+Freelancer 773,"ml, data analysis, ai, python, nodejs, sql",3.6,3.75,663
+Freelancer 774,"python, aws, docker, react",6.0,4.44,1462
+Freelancer 775,"flask, python, javascript",3.9,4.41,914
+Freelancer 776,"sql, ml, data analysis, aws, flask",6.2,4.52,880
+Freelancer 777,"data analysis, ml, html, flask, css",7.8,4.51,1594
+Freelancer 778,"django, python, react, sql",3.4,4.84,705
+Freelancer 779,"sql, ml, data analysis",2.3,3.82,1212
+Freelancer 780,"data analysis, flask, ml, nodejs, sql",6.4,4.05,1337
+Freelancer 781,"django, nodejs, html, aws, python, javascript",5.4,3.75,1690
+Freelancer 782,"django, html, flask, nodejs, python, css",7.3,4.55,1876
+Freelancer 783,"ml, django, javascript, data analysis, html, react",4.6,3.68,1348
+Freelancer 784,"aws, sql, flask, html",9.2,3.82,1070
+Freelancer 785,"django, flask, css",6.5,3.84,952
+Freelancer 786,"aws, ml, django, flask",2.8,3.94,1921
+Freelancer 787,"data analysis, react, aws, html, flask, django",5.0,3.72,203
+Freelancer 788,"ai, javascript, docker, python, css, html",8.7,3.98,565
+Freelancer 789,"docker, ml, css",9.0,3.71,1965
+Freelancer 790,"sql, html, nodejs, python, django, aws",1.9,3.74,632
+Freelancer 791,"nodejs, html, docker, python, aws, css",9.6,3.86,918
+Freelancer 792,"ml, docker, css, python, javascript, flask",6.7,4.0,800
+Freelancer 793,"ai, nodejs, django, html, aws",5.0,4.38,945
+Freelancer 794,"docker, flask, data analysis, python, html",1.5,4.03,730
+Freelancer 795,"react, ml, aws",8.8,4.88,1911
+Freelancer 796,"docker, css, aws, flask",8.8,4.54,1560
+Freelancer 797,"ai, nodejs, react, css, aws, flask",1.4,4.18,568
+Freelancer 798,"html, docker, flask, javascript, django, ai",4.7,4.28,1012
+Freelancer 799,"ml, django, javascript, css, html, data analysis",4.6,4.02,1437
+Freelancer 800,"react, ai, flask",4.4,3.95,1415
+Freelancer 801,"javascript, flask, html, aws",2.9,3.53,1172
+Freelancer 802,"css, data analysis, flask, react",2.0,4.8,1077
+Freelancer 803,"data analysis, react, django, aws",4.7,3.52,407
+Freelancer 804,"python, flask, ml, ai",4.8,3.97,1967
+Freelancer 805,"aws, html, nodejs",9.5,4.56,1741
+Freelancer 806,"django, ml, css, python",7.2,3.82,1445
+Freelancer 807,"nodejs, html, ai, data analysis, python",7.3,3.62,982
+Freelancer 808,"docker, sql, aws, react, python",1.6,4.34,1070
+Freelancer 809,"data analysis, ai, sql",1.0,4.75,1899
+Freelancer 810,"nodejs, aws, python, ml, data analysis, react",9.0,4.5,1917
+Freelancer 811,"aws, docker, sql",5.9,4.5,1705
+Freelancer 812,"docker, sql, react, python, javascript, ai",4.0,4.04,821
+Freelancer 813,"nodejs, javascript, ml, django, ai",10.0,3.84,1349
+Freelancer 814,"ml, nodejs, sql, javascript, html",6.1,3.95,444
+Freelancer 815,"css, ml, data analysis, aws",7.7,4.78,797
+Freelancer 816,"html, nodejs, docker, aws",9.5,4.07,1335
+Freelancer 817,"javascript, react, html, python",8.6,4.19,594
+Freelancer 818,"docker, data analysis, ai, html",5.0,4.74,546
+Freelancer 819,"ml, docker, react",2.8,4.84,1241
+Freelancer 820,"python, data analysis, docker, nodejs, flask",5.8,4.93,1193
+Freelancer 821,"ml, css, python",5.2,4.88,1049
+Freelancer 822,"ml, django, javascript, aws",4.6,4.98,1422
+Freelancer 823,"sql, docker, css, javascript, html, nodejs",4.2,3.63,1883
+Freelancer 824,"sql, aws, ai",7.2,4.96,500
+Freelancer 825,"sql, python, docker, css, data analysis, ml",7.2,4.85,279
+Freelancer 826,"nodejs, css, python, react",2.6,3.64,1387
+Freelancer 827,"django, html, javascript",1.2,4.67,720
+Freelancer 828,"django, sql, ai, data analysis",5.7,4.01,1196
+Freelancer 829,"javascript, html, aws, django, sql",2.1,4.53,1354
+Freelancer 830,"aws, ai, css, python, react",1.3,4.57,834
+Freelancer 831,"nodejs, docker, javascript, css, react",5.6,4.54,770
+Freelancer 832,"nodejs, react, python",5.9,4.2,452
+Freelancer 833,"data analysis, django, docker",2.8,5.0,1505
+Freelancer 834,"data analysis, aws, nodejs, css",9.9,4.06,1325
+Freelancer 835,"ai, javascript, aws, sql, django, ml",8.8,4.84,1649
+Freelancer 836,"aws, css, javascript, python, sql, ml",1.1,3.56,1742
+Freelancer 837,"flask, ai, data analysis",8.9,3.54,1991
+Freelancer 838,"data analysis, ml, css, django, docker",2.5,3.68,714
+Freelancer 839,"html, javascript, aws, react",7.4,4.66,1443
+Freelancer 840,"data analysis, html, ml",9.5,3.75,1396
+Freelancer 841,"flask, javascript, css, docker",7.6,4.58,1783
+Freelancer 842,"django, react, flask, ai",6.5,4.54,889
+Freelancer 843,"docker, python, ml, django, aws",7.0,4.93,472
+Freelancer 844,"nodejs, ai, ml, aws, python, sql",7.9,4.26,300
+Freelancer 845,"data analysis, css, react, ml",9.2,4.38,1710
+Freelancer 846,"sql, javascript, python, data analysis, html, nodejs",5.3,4.82,1622
+Freelancer 847,"sql, html, css, ml, nodejs",5.7,3.72,1647
+Freelancer 848,"docker, html, react, css",4.4,4.08,758
+Freelancer 849,"nodejs, css, aws, data analysis, ml",4.0,3.89,519
+Freelancer 850,"aws, ml, html, sql, python",8.2,3.78,1397
+Freelancer 851,"nodejs, django, sql, python, docker, data analysis",4.9,4.06,379
+Freelancer 852,"ml, nodejs, docker, aws, html",9.0,3.91,1991
+Freelancer 853,"data analysis, react, django",8.8,4.29,695
+Freelancer 854,"data analysis, nodejs, javascript",5.3,4.44,1984
+Freelancer 855,"ai, django, nodejs, sql, docker, javascript",9.9,4.8,1127
+Freelancer 856,"css, ai, react",2.1,3.88,717
+Freelancer 857,"flask, aws, react, javascript",8.1,4.57,1857
+Freelancer 858,"docker, react, aws, css, ai",4.4,4.22,1053
+Freelancer 859,"ml, react, javascript, data analysis, flask",2.6,4.49,1565
+Freelancer 860,"javascript, docker, flask, ai",8.5,4.69,1413
+Freelancer 861,"javascript, sql, react, html",4.9,4.55,594
+Freelancer 862,"javascript, docker, nodejs, data analysis, css",6.6,4.45,1422
+Freelancer 863,"data analysis, javascript, aws, ai, python, react",7.3,3.63,1824
+Freelancer 864,"react, html, aws, ml, python, data analysis",1.5,3.95,1305
+Freelancer 865,"react, aws, data analysis, css, ai",3.8,4.32,1183
+Freelancer 866,"react, ai, sql, css, javascript, django",9.4,4.7,1904
+Freelancer 867,"ml, javascript, aws, css, html",2.6,4.02,1367
+Freelancer 868,"docker, javascript, data analysis, ml, python, sql",6.5,4.47,1228
+Freelancer 869,"ml, javascript, nodejs, django, ai, sql",8.1,3.69,1711
+Freelancer 870,"docker, ml, django, html, python",8.9,3.94,1583
+Freelancer 871,"ai, react, python, flask",7.2,3.9,1006
+Freelancer 872,"react, nodejs, javascript, docker",2.3,3.69,721
+Freelancer 873,"data analysis, flask, nodejs, python, django, ai",2.3,4.46,644
+Freelancer 874,"python, html, nodejs",5.7,4.18,1083
+Freelancer 875,"css, javascript, ai",9.0,3.99,1063
+Freelancer 876,"react, docker, aws, html, javascript, python",1.8,3.95,1515
+Freelancer 877,"html, react, django",7.9,4.98,1772
+Freelancer 878,"react, javascript, flask, nodejs, html",5.8,4.8,772
+Freelancer 879,"python, sql, react, ai, django",2.0,4.75,1535
+Freelancer 880,"html, docker, data analysis, ai, css",1.1,4.45,1722
+Freelancer 881,"flask, react, sql, ml, html",2.6,4.26,1623
+Freelancer 882,"javascript, ai, css, flask, aws",3.7,3.53,1139
+Freelancer 883,"python, ai, flask, nodejs",5.7,4.01,1135
+Freelancer 884,"django, html, javascript, ml, react, python",6.4,4.02,1076
+Freelancer 885,"flask, ml, python, css, aws, react",6.2,3.63,1234
+Freelancer 886,"data analysis, flask, aws, react, javascript, ai",5.2,3.54,1517
+Freelancer 887,"css, docker, nodejs, django",4.6,3.68,524
+Freelancer 888,"sql, flask, django, ai",8.8,4.0,684
+Freelancer 889,"python, javascript, react, flask",8.2,4.28,1589
+Freelancer 890,"ai, nodejs, html, ml, flask, css",5.3,3.69,1220
+Freelancer 891,"javascript, css, data analysis",1.7,4.56,958
+Freelancer 892,"ml, nodejs, html, javascript, css",5.6,4.87,1682
+Freelancer 893,"flask, ai, javascript, data analysis",2.3,4.93,1144
+Freelancer 894,"css, javascript, docker, django",1.9,3.9,1185
+Freelancer 895,"flask, django, javascript, python, data analysis",3.9,3.77,1104
+Freelancer 896,"html, docker, react, ai, nodejs, javascript",8.0,4.32,1388
+Freelancer 897,"sql, javascript, ai, docker",9.2,4.51,1108
+Freelancer 898,"python, ml, nodejs",8.6,4.36,461
+Freelancer 899,"data analysis, javascript, ai",1.7,3.92,217
+Freelancer 900,"docker, ml, data analysis, aws, javascript",1.6,4.57,1654
+Freelancer 901,"javascript, ai, react, flask",5.2,3.92,254
+Freelancer 902,"nodejs, django, html, react, python, docker",9.2,4.14,1092
+Freelancer 903,"nodejs, data analysis, javascript, sql, docker, python",4.1,4.93,1046
+Freelancer 904,"sql, nodejs, python, data analysis, aws, django",2.3,4.61,521
+Freelancer 905,"nodejs, react, python, flask, css, javascript",7.8,3.75,1918
+Freelancer 906,"css, python, javascript",4.6,4.46,258
+Freelancer 907,"docker, aws, flask",5.9,4.69,1809
+Freelancer 908,"html, ml, django, react, nodejs",2.7,4.75,1520
+Freelancer 909,"nodejs, react, javascript, css, django",8.4,4.56,529
+Freelancer 910,"django, ai, flask, react, python, ml",5.1,4.85,502
+Freelancer 911,"html, react, flask",5.4,4.31,1056
+Freelancer 912,"react, css, flask, python, html, django",1.7,3.66,1952
+Freelancer 913,"django, ml, data analysis, aws, nodejs, docker",8.0,4.08,332
+Freelancer 914,"django, ml, html, aws, data analysis, javascript",4.0,4.66,1456
+Freelancer 915,"data analysis, html, css",6.8,4.74,1243
+Freelancer 916,"react, nodejs, sql, flask, ai",2.1,4.27,443
+Freelancer 917,"html, aws, ai, sql, javascript, data analysis",6.0,4.55,331
+Freelancer 918,"react, flask, ml, javascript, python, nodejs",5.7,3.58,1924
+Freelancer 919,"nodejs, aws, sql",9.8,4.13,621
+Freelancer 920,"python, data analysis, aws, html, react",4.0,4.97,663
+Freelancer 921,"sql, flask, docker, html",9.0,3.95,723
+Freelancer 922,"nodejs, html, ai, docker, sql",6.6,3.56,782
+Freelancer 923,"nodejs, python, css, aws, flask, django",8.1,4.4,432
+Freelancer 924,"data analysis, ml, javascript, flask, django, nodejs",3.9,3.88,1622
+Freelancer 925,"python, html, react, django, docker, nodejs",4.1,3.82,245
+Freelancer 926,"flask, javascript, django",3.6,3.79,1340
+Freelancer 927,"aws, react, sql, docker, html",9.5,3.91,890
+Freelancer 928,"sql, aws, css, python, docker",5.1,4.57,1044
+Freelancer 929,"ml, nodejs, data analysis, html",1.2,3.97,1663
+Freelancer 930,"ai, django, python, aws, docker, flask",7.9,4.22,1238
+Freelancer 931,"ml, flask, python, aws",7.2,3.6,1950
+Freelancer 932,"html, django, ml, python, javascript, ai",8.9,4.67,1179
+Freelancer 933,"django, ml, react",7.9,4.57,341
+Freelancer 934,"docker, aws, javascript, data analysis",2.4,4.93,388
+Freelancer 935,"react, html, nodejs, ai",9.6,4.05,205
+Freelancer 936,"javascript, nodejs, data analysis, python",3.0,4.31,391
+Freelancer 937,"ml, css, flask, ai, aws",1.2,4.55,1073
+Freelancer 938,"django, javascript, data analysis, flask",9.0,4.26,1067
+Freelancer 939,"javascript, nodejs, ai, ml",9.9,4.17,826
+Freelancer 940,"javascript, css, data analysis, react",9.2,3.71,1860
+Freelancer 941,"django, javascript, ml, python, html",2.3,4.62,360
+Freelancer 942,"django, react, aws, docker, html, flask",1.3,4.43,1948
+Freelancer 943,"flask, python, javascript, aws, css, nodejs",4.2,4.92,999
+Freelancer 944,"sql, aws, ml, ai, flask, react",6.3,3.69,1688
+Freelancer 945,"docker, ai, ml",4.1,3.93,1423
+Freelancer 946,"django, html, javascript, nodejs, sql",9.7,3.93,1707
+Freelancer 947,"javascript, sql, nodejs",6.1,3.63,1773
+Freelancer 948,"django, nodejs, html",6.4,3.78,672
+Freelancer 949,"sql, flask, css, data analysis",7.8,3.59,505
+Freelancer 950,"python, sql, ai, react, html",6.4,4.15,855
+Freelancer 951,"nodejs, data analysis, python, html, react",2.3,3.52,1532
+Freelancer 952,"nodejs, ml, docker, python, html, django",1.2,4.04,1411
+Freelancer 953,"sql, css, react",5.2,4.3,314
+Freelancer 954,"aws, ai, django",7.7,4.87,258
+Freelancer 955,"css, django, aws, docker, react, html",7.8,4.19,1627
+Freelancer 956,"css, flask, react, javascript, nodejs, aws",10.0,4.75,377
+Freelancer 957,"css, docker, react, flask",5.8,4.17,840
+Freelancer 958,"react, data analysis, javascript, css",7.5,3.52,1654
+Freelancer 959,"django, nodejs, aws",7.2,3.7,961
+Freelancer 960,"data analysis, flask, nodejs",3.4,4.36,1150
+Freelancer 961,"nodejs, docker, ai, data analysis, flask",8.4,3.63,1069
+Freelancer 962,"javascript, nodejs, css, react, data analysis, flask",5.6,4.97,1221
+Freelancer 963,"data analysis, html, sql, flask",5.3,4.93,374
+Freelancer 964,"aws, flask, python, sql, javascript",3.4,3.6,761
+Freelancer 965,"javascript, sql, ml, flask, css, aws",7.4,4.25,304
+Freelancer 966,"nodejs, aws, react",2.8,4.85,808
+Freelancer 967,"ai, css, javascript",5.7,3.83,1968
+Freelancer 968,"aws, nodejs, javascript, ai",6.3,3.7,1596
+Freelancer 969,"python, django, ai, flask, html, react",7.2,4.35,1814
+Freelancer 970,"javascript, react, nodejs, sql, ai",5.6,3.99,208
+Freelancer 971,"python, javascript, data analysis",2.5,4.75,1455
+Freelancer 972,"react, aws, flask, django",5.0,4.44,1911
+Freelancer 973,"css, javascript, aws, data analysis, sql",5.2,4.13,472
+Freelancer 974,"flask, react, nodejs, ai",3.1,4.95,1407
+Freelancer 975,"aws, html, python",4.1,4.14,609
+Freelancer 976,"javascript, python, sql, nodejs, flask, css",3.5,4.22,259
+Freelancer 977,"nodejs, docker, data analysis, react, sql, css",2.4,3.51,1529
+Freelancer 978,"data analysis, flask, ml, python",7.0,3.65,279
+Freelancer 979,"django, python, data analysis, ml, docker",5.9,3.65,393
+Freelancer 980,"html, react, nodejs",2.5,4.97,1906
+Freelancer 981,"django, html, sql, css, docker, ai",8.2,4.55,719
+Freelancer 982,"flask, data analysis, python, javascript",8.6,4.91,267
+Freelancer 983,"ai, javascript, ml",5.1,3.55,1589
+Freelancer 984,"html, flask, css, react, sql, python",7.3,4.53,673
+Freelancer 985,"data analysis, flask, ml, ai, docker",4.1,4.57,1788
+Freelancer 986,"html, flask, aws",8.3,4.92,678
+Freelancer 987,"aws, nodejs, ai",2.4,3.94,293
+Freelancer 988,"django, data analysis, flask",2.7,3.83,734
+Freelancer 989,"nodejs, sql, javascript, css",8.9,3.71,626
+Freelancer 990,"django, aws, nodejs, ai",4.4,3.62,771
+Freelancer 991,"docker, django, react, sql, ml",8.1,4.4,1805
+Freelancer 992,"ai, python, react, javascript",3.2,4.39,898
+Freelancer 993,"css, docker, python, data analysis, django",4.1,3.6,418
+Freelancer 994,"sql, django, python, ai",8.4,4.66,1444
+Freelancer 995,"data analysis, javascript, react, css, docker, django",3.2,4.3,1532
+Freelancer 996,"python, docker, html",8.6,4.35,1486
+Freelancer 997,"css, docker, react, ml, javascript",3.8,4.74,1880
+Freelancer 998,"python, flask, sql",1.1,3.74,672
+Freelancer 999,"sql, data analysis, docker, css, django",9.1,3.54,1412
+Freelancer 1000,"django, html, ai, nodejs, python",8.0,4.05,992

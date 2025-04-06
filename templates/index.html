@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PeerHire - AI Freelancer Recommendations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 80px auto;
+      background: white;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    input[type="text"], input[type="number"] {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 12px 25px;
+      width: 100%;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .error {
+      color: red;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+
+    .freelancer-card {
+      background: #e9f5ff;
+      margin-bottom: 15px;
+      padding: 15px;
+      border-radius: 8px;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .freelancer-card strong {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Get Freelancer Recommendations</h1>
+    <form method="POST">
+      <label for="skills">Required Skills (comma-separated):</label>
+      <input type="text" name="skills" id="skills" placeholder="e.g. python, flask, react" required>
+
+      <label for="budget">Your Budget (USD):</label>
+      <input type="number" name="budget" id="budget" placeholder="e.g. 1000" required>
+
+      <label for="timeline">Timeline (days):</label>
+      <input type="number" name="timeline" id="timeline" placeholder="e.g. 7" required>
+
+      <button type="submit">Get Recommendations</button>
+    </form>
+
+    {% if error %}
+      <p class="error">{{ error }}</p>
+    {% endif %}
+
+    {% if recommendations %}
+      <h2>Top Recommended Freelancers:</h2>
+      {% for freelancer in recommendations %}
+        <div class="freelancer-card">
+          <strong>Name:</strong> {{ freelancer.name }}<br>
+          <strong>Skills:</strong> {{ freelancer.skills }}<br>
+          <strong>Experience:</strong> {{ freelancer.experience }} years<br>
+          <strong>Rating:</strong> {{ freelancer.rating }} / 5<br>
+          <strong>Cost per Project:</strong> ${{ freelancer.cost_per_project }}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</body>
+</html>
